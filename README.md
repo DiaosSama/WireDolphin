@@ -17,6 +17,8 @@ Windows10（Linux不保证兼容）
 
 `python main.py`
 
+也可以从release处直接下载打包好的可执行文件运行，适用于Windows x64
+
 ## 功能介绍
 
 - 可以分析处理以下协议包：IPv4/6, TCP, UDP, HTTP(S), DNS, MDNS, SSDP, ICMP
